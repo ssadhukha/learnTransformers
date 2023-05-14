@@ -18,6 +18,7 @@ Paper: https://arxiv.org/abs/2305.03210
 
 ## Analyzing latent embeddings
 [Cebra](https://github.com/AdaptiveMotorControlLab/CEBRA)<br>
-Paper: https://www.nature.com/articles/s41586-023-06031-6
+Paper: https://www.nature.com/articles/s41586-023-06031-6<br>
 
+[What Are Word and Sentence Embeddings?](https://txt.cohere.com/sentence-word-embeddings/)
 
